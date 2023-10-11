@@ -1,21 +1,21 @@
-20IT938-PRIEE-A14
-Batch: 14
-Flight Delay Prediction Model
-Introduction
+20IT938-PRIEE-A14 <hr>
+Batch: 14 <hr>
+Flight Delay Prediction Model<hr>
+Introduction<hr>
 Welcome to the GitHub repository for the project on the Flight Delay Prediction Model. In this project, we find the flight delay prediction using Machine learning and previous data.
 
-Project Objective
+Project Objective<hr>
 The primary objective of this project is to critically examine the delay of the flight. By analyzing various data on delays of flights, such as customer service automation, fraud detection algorithms, personalized financial recommendations, and more, we aim to shed light on the transformative potential of AI and the challenges it presents.
 
-Domain: Artificial Intelligence in Banking
+Domain: Artificial Intelligence in Banking<hr>
 Artificial Intelligence has become a driving force in reshaping the banking landscape. From enhancing operational efficiency to improving customer experiences, AI technologies play a pivotal role. In this project, we delve into the nuances of this domain, exploring both the opportunities and ethical considerations associated with AI integration in banking.
 
-Team Members
+Team Members<hr>
 Name	Register Number	ID
 Nihanth sai B	111720102019	NihanthB
 Sai Goutham B	111720102020	PALLAAKHILESWAR
 
-Contribution Guidelines
+Contribution Guidelines<hr>
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
 
 Fork this repository and create your branch: git checkout -b feature/your-feature
